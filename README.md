@@ -4,7 +4,7 @@
 
 Sou estudante de Engenharia Elétrica no [IFES](https://guarapari.ifes.edu.br) e integrante do LabSEA. Trabalho principalmente com Python, mas estou aprendendo Golang para expandir minhas habilidades.
 <br>
-
+---
 <p>
 <div align="center">
    <a href="https://www.python.org/">
