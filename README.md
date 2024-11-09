@@ -4,7 +4,7 @@
 
 Sou estudante de Engenharia Elétrica no [IFES](https://guarapari.ifes.edu.br) e integrante do LabSEA. Trabalho principalmente com Python, mas estou aprendendo Golang para expandir minhas habilidades.
 <br>
----
+
 <p>
 <div align="center">
    <a href="https://www.python.org/">
@@ -45,7 +45,7 @@ Sou estudante de Engenharia Elétrica no [IFES](https://guarapari.ifes.edu.br) e
             <img alt="Minhas estatísticas" src="https://github-readme-stats.vercel.app/api?username=JoabFelippx&theme=vue-dark&show_icons=true&line_height=27&include_all_commits=true" height="180em" />
         </a>
         <a href="https://github.com/JoabFelippx">
-            <img alt="Linguagens que eu uso" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoabFelippx&layout=compact&theme=vue-dark&show_icons=true&line_height=27&langs_count=6" height="180em"  />
+            <img alt="Linguagens que eu uso" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoabFelippx&layout=compact&theme=vue-dark&show_icons=true&line_height=27&langs_count=5" height="180em"  />
         </a>
     </p>
 <br>
